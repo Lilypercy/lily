@@ -1,0 +1,81 @@
+  .w{
+      width: 1200px;
+      margin: 0 auto;
+  }
+  .footer{
+      background-color: #fff;
+  }
+ 
+  header{
+      height: 84px;
+      border-bottom: 1px solid #c81523;
+  }
+  .logo{
+      padding-top: 18px;
+  }
+  .registerara{
+      height: 522px;
+      border: 1px solid #ccc;
+      margin-top: 20px;
+  }
+  .registerara h3{
+      height: 42px;
+      border-bottom: 1px solid #ccc;
+      background-color: #ececec;
+      line-height: 42px;
+      padding: 0 10px;
+      font-size: 18px;
+      font-weight: 400;
+  }
+  .login{
+      float: right;
+      font-size: 14px;
+  }
+  .login a{
+      color: #c81523;
+  }
+
+  .reg_form{
+      width: 600px;
+      margin: 50px auto 0;
+  }
+  .reg_form ul li{
+      margin-bottom: 20px;
+  }
+  .reg_form ul li label{
+      display: inline-block;
+      width: 88px;
+      text-align: right;
+  }
+  .reg_form ul li .inp{
+      width: 242px;
+      height: 37px;
+      border: 1px solid #ccc;
+  }
+  .reg_form .error{
+      color: #c81523;
+  }
+  .reg_form .error i{
+     display: inline-block;
+     width: 20px;
+     height: 20px;
+     background:url(../images/error.png) no-repeat;
+     vertical-align: middle;
+     margin-right: 5px;
+  }
+  .safe{
+      padding-left: 170px;
+  }
+  .safe em{
+      padding: 0 12px;
+      color: #fff;
+  }
+  .ruo{
+      background-color: #de1111;
+  }
+  .zhong{
+      background-color: #40b83f;
+  }
+  .qiang{
+      background-color: #f79100;
+  }
